@@ -1,1 +1,2 @@
 # SpeechToText
+This is a Python program which uses your microphone to convert your speech to text. It uses the PyAudio (https://pypi.org/project/PyAudio/) library to gain access to the device's microphone and record your speech. And it also uses the SpeechRecognition library (https://pypi.org/project/SpeechRecognition/) to convert your speech to text. You should install them on your machine before running the Python script.
